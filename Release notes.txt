@@ -1,4 +1,9 @@
 CityLoop Quest Gand - Release notes
+Version 26.08.01
+----------------------------------------
+- Quiz coverage updated: 20 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Gand - Release notes
 Version 26.07.01
 ----------------------------------------
 - Renamed city app to Gand.
