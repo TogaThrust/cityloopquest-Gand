@@ -12,8 +12,8 @@
   },
   "guardInfoByCountry": {
     "belgique": {
-      "pharmacyNumber": "-",
-      "pharmacyNote": "Pharmacies de garde : recherche officielle sur pharmacie.be ou apotheek.be. La pharmacie indiquée comme « de garde » varie selon l’heure et le secteur ; consultez le portail avant de vous déplacer.",
+      "pharmacyNumber": "0903 99 000",
+      "pharmacyNote": "Numéro national belge des pharmacies de garde (24h/24) : 0903 99 000 — environ 1,50 €/min. Alternative gratuite : recherchez sur pharmacie.be ou apotheek.be avant de vous déplacer.",
       "pharmacyUrl": "https://www.pharmacie.be/",
       "veterinaryNumber": "+32 9 264 76 75",
       "veterinaryNote": "Urgences vétérinaires 24 h/24 de la Clinique des petits animaux de l’Université de Gand. Appelez avant de vous rendre sur place. WelloPet Sint-Denijs-Westrem dispose aussi d’une permanence 24 h/24.",

@@ -551,8 +551,10 @@
     }
 
     function defaultGuardHotline(category, country, guard = {}) {
-      if (category === "pharmacy" && guard.pharmacyNumber) return guard.pharmacyNumber;
-      if (category === "veterinary" && guard.veterinaryNumber) return guard.veterinaryNumber;
+      const pharmacyNumber = String(guard.pharmacyNumber || "").trim();
+      const veterinaryNumber = String(guard.veterinaryNumber || "").trim();
+      if (category === "pharmacy" && pharmacyNumber && pharmacyNumber !== "-") return pharmacyNumber;
+      if (category === "veterinary" && veterinaryNumber && veterinaryNumber !== "-") return veterinaryNumber;
       if (isSpainCountryValue(country)) {
         const region = resolveSpainGuardRegion(currentCityRecord?.record || {});
         if (region === "valencia") {
@@ -569,7 +571,9 @@
       if (isAustriaCountryValue(country)) {
         return category === "pharmacy" ? "1455" : "+43 1 25077 5555";
       }
-      if (isBelgiumCountryValue(country)) return "-";
+      if (isBelgiumCountryValue(country)) {
+        return category === "pharmacy" ? "0903 99 000" : "-";
+      }
       if (isFranceCountryValue(country)) {
         return category === "pharmacy" ? "3237" : "3115";
       }

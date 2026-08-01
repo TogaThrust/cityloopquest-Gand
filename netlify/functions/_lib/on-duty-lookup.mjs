@@ -537,8 +537,8 @@ function lookupBelgiumVeterinaryFallback() {
     items: [],
     provider: "belgium-vet-fallback",
     status: "fallback",
-    message: "Service veterinaire de garde : contactez votre veterinaire habituel ou les urgences locales.",
-    fallbackUrl: "https://www.veterinaire.be/",
+    message: "Service veterinaire de garde : contactez votre veterinaire habituel ou les urgences locales (ex. clinique UGent a Gand).",
+    fallbackUrl: "https://www.ordre-veterinaires.be/",
   };
 }
 
