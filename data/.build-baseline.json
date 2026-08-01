@@ -1,6 +1,6 @@
 {
-  "version": "26.08.05",
-  "savedAt": "2026-08-01T09:22:57.133Z",
+  "version": "26.08.06",
+  "savedAt": "2026-08-01T09:30:20.454Z",
   "citySummary": {
     "cityName": "Gand",
     "appTitle": "CityLoop Quest Gand",
@@ -118,11 +118,11 @@
   },
   "files": {
     "app.js": "9c75a52fc1772570d588e03e51cee210ecafacbb06da2462fe69d67879bc1a0a",
-    "main.html": "303e2e9372615597bca5ced2bc8c4a27aacd67e3cbfca7fac42180c844e57b1a",
+    "main.html": "bdea269cb9d4c469f0bd58015f2bd218dc49b5fdd4897e3910db5e3cd0006d6a",
     "parcours.html": "87e53111939370b76e12d757f7909f25f1cdad06068bb654b4a625d65e50bd6d",
-    "circuit.html": "328fc84d7a429a52bd2bbf6317b6c89d3b15894b0a2090057c2a39ba359c56fb",
+    "circuit.html": "35d56ede3555224d09f0efe3b1fe7c9a59ed2fc3d1b4b501bf1557d7a94be1ec",
     "circuit-data.js": "ba3f78970f493bd06db569d5746e53a6dad2c9c3a95168e5c4b2055f42399001",
-    "service-worker.js": "8f0a9d266533d0f324c4ac0dc880e09ba79fe1e7d563871b0579d1589796c812",
+    "service-worker.js": "6f1bd4ebf345637f29b6afac1cd1035ec83587cf8314512c943351d29e06d52e",
     "instructions.html": "4b57b7aa696b1d0438d3d8fadba69878659e217929eef455385e0b8c3da13380"
   }
 }
