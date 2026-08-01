@@ -1,4 +1,9 @@
 CityLoop Quest Gand - Release notes
+Version 26.08.04
+----------------------------------------
+- Quiz coverage updated: 20 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Gand - Release notes
 Version 26.08.03
 ----------------------------------------
 - Quiz coverage updated: 20 tour stop(s) now have quizzes (was 0).
