@@ -1,0 +1,5822 @@
+{
+  "fr": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "En quelle année l’Agneau Mystique fut-il achevé ?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel panneau volé en 1934 manque toujours ?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que faut-il examiner de près dans le retable ?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "Que conservait-on dans le Beffroi dès 1402 ?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "À quoi servait le Mammelokker construit en 1741 ?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel détail faut-il regarder au-dessus du fronton du Mammelokker ?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "Quels styles se rencontrent sur les façades de l’Hôtel de Ville ?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel accord fut signé ici en 1576 ?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Où voit-on le mieux la rupture architecturale ?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Quel commerce a donné son nom au Korenmarkt ?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel matériau caractérise l’église Saint-Nicolas ?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que faut-il surtout observer depuis Klein Turkije ?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "Quand le pont de pierre actuel a-t-il été construit ?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel groupe de monuments se voit dans le même axe ?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel détail couronne le réverbère central ?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "Quel produit dominait historiquement le port intérieur ?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel bâtiment conserve une façade romane très ancienne ?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que faut-il comparer le long du Graslei ?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Quel comte fit construire la forteresse en 1180 ?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle activité occupa le château au XIXe siècle ?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel épisode étudiant eut lieu en 1949 ?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Pourquoi Jacob van Artevelde rechercha-t-il l’alliance anglaise ?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel bâtiment rappelle le mouvement ouvrier ?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que signalait la cloche du Toreken ?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Que signifie principalement le nom Ganda ?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle transformation récente caractérise Portus Ganda ?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que faut-il observer depuis les passerelles ?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "De quelle époque date l’origine du Château de Gérard le Diable ?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel usage le bâtiment a-t-il notamment connu ?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que révèle l’observation de la maçonnerie ?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Depuis quand la ruelle est-elle officiellement consacrée au graffiti ?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel artiste est connu pour ses grands animaux noirs et blancs ?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que faut-il observer dans les murs peints ?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Quel souverain naquit au Prinsenhof en 1500 ?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Pourquoi les Gantois furent-ils appelés Stroppendragers ?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que reste-t-il surtout à observer aujourd’hui ?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "À quoi le nom Patershol est-il généralement rattaché ?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Comment le quartier évolua-t-il au XIXe siècle ?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel détail révèle le mieux l’ancien parcellaire ?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "À quelle période remontent les parties les plus anciennes de Saint-Jacques ?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Qui relança les fêtes populaires du quartier en 1969 ?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que faut-il comparer sur la façade occidentale ?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "Qu’occupait le site avant la création du parc ?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel événement transforma fortement le parc en 1913 ?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel caractère du jardin faut-il remarquer ?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Quelle était la fonction historique majeure du site de la Bijloke ?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "En quelle année le STAM a-t-il ouvert ?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément aide à situer les quartiers de Gand ?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "À quelle période la tradition fait-elle remonter l’abbaye Saint-Pierre ?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel style domine l’église Saint-Pierre actuelle ?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que faut-il parcourir derrière le complexe ?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Qui vivait dans le béguinage Sainte-Élisabeth ?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Où la communauté déménagea-t-elle au XIXe siècle ?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel surnom souligne la diversité religieuse du quartier ?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Pourquoi le Rabot fut-il construit à partir de 1489 ?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle était sa fonction technique principale ?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel détail aide à comprendre le monument ?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "À quelle période remontent les origines de l’abbaye Saint-Bavon ?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi une grande partie de l’abbaye fut-elle démolie en 1540 ?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel dispositif évoque le plan de l’église disparue ?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "nl": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "In welk jaar werd het Lam Gods voltooid?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke in 1934 gestolen paneel ontbreekt nog steeds?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat moet er in het altaarstuk van dichtbij worden bekeken?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "Wat werd er vanaf 1402 in het Belfort bewaard?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waarvoor diende de Mammelokker, gebouwd in 1741?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk detail moet je boven het fronton van de Mammelokker bekijken?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "Welke stijlen komen samen op de gevels van het Stadhuis?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke overeenkomst werd hier in 1576 ondertekend?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waar ziet u de architecturale breuk het best?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Welke handel gaf de Korenmarkt zijn naam?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk materiaal kenmerkt de Sint-Niklaaskerk?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat moet je vooral bekijken vanaf Klein Turkije?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "Wanneer is de huidige stenen brug gebouwd?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke groep monumenten is in dezelfde as te zien?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk detail bekroont de centrale lantaarnpaal?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "Welk product domineerde historisch gezien de binnenhaven?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk gebouw heeft een zeer oude romaanse gevel behouden?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat moet je vergelijken langs de Graslei?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Welke graaf liet het fort in 1180 bouwen?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke activiteit bezette het kasteel in de 19e eeuw?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke studentenactie vond plaats in 1949?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Waarom zocht Jacob van Artevelde het Engelse bondgenootschap?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk gebouw herinnert aan de arbeidersbeweging?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarvoor luidde de klok van het Toreken?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Wat betekent de naam Ganda vooral?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke recente transformatie kenmerkt Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat moet er vanaf de loopbruggen worden waargenomen?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "Uit welke periode dateert de oorsprong van het Château de Gérard le Diable?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke bestemming heeft het gebouw onder meer gehad?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat onthult de observatie van het metselwerk?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Sinds wanneer is het steegje officieel gewijd aan graffiti?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke kunstenaar staat bekend om zijn grote zwart-witte dieren?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat moet je observeren in de beschilderde muren?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Welke vorst werd in 1500 in het Prinsenhof geboren?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waarom werden de Gentenaars Stroppendragers genoemd?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat valt er vandaag vooral te bekijken?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "Aan wat wordt de naam Patershol doorgaans gekoppeld?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Hoe ontwikkelde de wijk zich in de 19e eeuw?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke detail geeft het oude perceelsindeling het best weer?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "Uit welke periode dateren de oudste delen van de Sint-Jacobskerk?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wie blies in 1969 de volksfeesten van de wijk nieuw leven in?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat moet er worden vergeleken op de westgevel?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "Wat bevond zich op deze site vóór de aanleg van het park?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke gebeurtenis veranderde het park sterk in 1913?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk karakter van de tuin moet men opmerken?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Wat was de belangrijkste historische functie van de site van de Bijloke?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In welk jaar is het STAM geopend?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk element helpt om de wijken van Gent te situeren?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "Uit welke periode laat de traditie de abdij Saint-Pierre dateren?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke stijl domineert de huidige Sint-Pieterskerk?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat moet je achter het complex afleggen?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Wie woonde er in het Sint-Elisabethbegijnhof?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waar verhuisde de gemeenschap in de 19e eeuw naartoe?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke bijnaam benadrukt de religieuze diversiteit van de wijk?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Waarom werd het Rabot vanaf 1489 gebouwd?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat was de belangrijkste technische functie ervan?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke details helpen om het monument te begrijpen?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "Tot welke periode gaan de oorsprongen van de abdij van Sint-Baafs terug?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom werd een groot deel van de abdij in 1540 afgebroken?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk element roept de plattegrond van de verdwenen kerk op?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "en": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "In what year was the Ghent Altarpiece completed?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which panel stolen in 1934 is still missing?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What should be examined closely in the altarpiece?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "What was kept in the Belfry from 1402 onward?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What was the Mammelokker, built in 1741, used for?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What detail should you look at above the pediment of the Mammelokker?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "What styles can be seen on the façades of City Hall?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What agreement was signed here in 1576?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Where is the architectural rupture best seen?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Which trade gave the Korenmarkt its name?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What material characterizes Saint Nicholas Church?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What should you especially observe from Klein Turkije?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "When was the current stone bridge built?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which group of monuments can be seen along the same axis?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What detail tops the central lamppost?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "What product historically dominated the inland port?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which building preserves a very old Romanesque façade?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What should be compared along the Graslei?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Which count had the fortress built in 1180?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What activity occupied the château in the 19th century?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which student event took place in 1949?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Why did Jacob van Artevelde seek an alliance with England?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which building recalls the labor movement?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What did the Toreken bell announce?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "What does the name Ganda primarily mean?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What recent transformation characterizes Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What should be observed from the footbridges?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "What period does the origin of Château de Gérard le Diable date from?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What use has the building notably had?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What does the observation of the masonry reveal?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Since when has the alley officially been dedicated to graffiti?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which artist is known for his large black-and-white animals?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What should you observe in the painted walls?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Which ruler was born at the Prinsenhof in 1500?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Why were the people of Ghent called Stroppendragers?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is there still mainly to observe today?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "What is the name Patershol generally associated with?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "How did the neighborhood evolve in the 19th century?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which detail best reveals the old plot layout?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "What period do the oldest parts of Saint-Jacques date back to?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Who revived the neighborhood’s popular festivals in 1969?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What should be compared on the western façade?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "What occupied the site before the park was created?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What event greatly transformed the park in 1913?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What feature of the garden should be noted?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "What was the site of the Bijloke’s main historical function?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In what year did the STAM open?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which feature helps to locate the districts of Ghent?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "To what period does tradition trace the origins of Saint-Pierre Abbey?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What style dominates the current Saint-Pierre church?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What must be traversed behind the complex?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Who lived in the Sainte-Élisabeth beguinage?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Where did the community move in the 19th century?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which nickname highlights the religious diversity of the neighborhood?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Why was the Rabot built starting in 1489?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What was its main technical function?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What detail helps to understand the monument?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "What period do the origins of Saint-Bavo Abbey date back to?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why was a large part of the abbey demolished in 1540?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What feature suggests the layout of the lost church?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "de": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "In welchem Jahr wurde der Genter Altar vollendet?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches 1934 gestohlene Tafelbild fehlt noch immer?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was sollte man am Altarbild genau betrachten?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "Was bewahrte man seit 1402 im Belfried auf?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wozu diente der 1741 errichtete Mammelokker?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Detail sollte man über dem Giebel des Mammelokker betrachten?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "Welche Stilrichtungen begegnen Ihnen an den Fassaden des Rathauses?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welcher Vertrag wurde hier im Jahr 1576 unterzeichnet?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wo sieht man den architektonischen Bruch am besten?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Welcher Handel gab dem Korenmarkt seinen Namen?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Material zeichnet die St.-Nikolaus-Kirche aus?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was sollte man vor allem vom Klein Turkije aus beachten?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "Wann wurde die heutige Steinbrücke gebaut?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Denkmälergruppe ist in derselben Achse zu sehen?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Detail krönt die zentrale Straßenlaterne?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "Welches Produkt dominierte historisch den Binnenhafen?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches Gebäude bewahrt eine sehr alte romanische Fassade?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Was sollte man entlang des Graslei vergleichen?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Welcher Graf ließ die Festung im Jahr 1180 erbauen?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Tätigkeit prägte das Schloss im 19. Jahrhundert?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Studentenereignis fand 1949 statt?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Warum suchte Jacob van Artevelde das Bündnis mit England?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Gebäude erinnert an die Arbeiterbewegung?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wofür läutete die Glocke des Toreken?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Was bedeutet der Name Ganda hauptsächlich?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche jüngste Veränderung prägt Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was sollte man von den Stegen aus beobachten?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "Aus welcher Epoche stammt der Ursprung des Château de Gérard le Diable?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Nutzung hat das Gebäude insbesondere erfahren?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was verrät die Beobachtung des Mauerwerks?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Seit wann ist die Gasse offiziell dem Graffiti gewidmet?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welcher Künstler ist für seine großen schwarz-weißen Tiere bekannt?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Was sollte man in den bemalten Wänden beobachten?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Welcher Herrscher wurde 1500 im Prinsenhof geboren?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Warum wurden die Einwohner von Gent Stroppendragers genannt?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was gibt es heute vor allem noch zu sehen?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "Womit wird der Name Patershol im Allgemeinen in Verbindung gebracht?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wie entwickelte sich das Viertel im 19. Jahrhundert?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Detail verrät am besten die ehemalige Parzellenstruktur?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "Aus welcher Zeit stammen die ältesten Teile von Saint-Jacques?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wer hat 1969 die Volksfeste des Viertels wiederbelebt?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Was sollte an der Westfassade verglichen werden?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "Was befand sich auf dem Gelände, bevor der Park angelegt wurde?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Ereignis veränderte den Park im Jahr 1913 stark?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welchen Charakter des Gartens sollte man beachten?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Was war die wichtigste historische Funktion des Geländes der Bijloke?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In welchem Jahr wurde das STAM eröffnet?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Element hilft dabei, die Viertel von Gent zu verorten?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "Auf welche Zeit lässt sich die Abtei Saint-Pierre der Überlieferung nach zurückführen?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welcher Stil dominiert die heutige Kirche Saint-Pierre?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was muss man hinter dem Komplex zurücklegen?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Wer lebte im Beginenhof Sainte-Élisabeth?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wohin zog die Gemeinschaft im 19. Jahrhundert um?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welcher Spitzname betont die religiöse Vielfalt des Viertels?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Warum wurde das Rabot ab 1489 erbaut?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was war seine wichtigste technische Funktion?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Detail hilft, das Denkmal zu verstehen?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "Auf welche Zeit gehen die Ursprünge der Abtei Saint-Bavon zurück?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum wurde ein großer Teil der Abtei im Jahr 1540 abgerissen?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Element erinnert an den Grundriss der verschwundenen Kirche?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "it": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "In quale anno l’Agnello Mistico fu completato?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale pannello rubato nel 1934 manca ancora?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Cosa bisogna osservare da vicino nel polittico?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "Che cosa si conservava nel Beffroi già dal 1402?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A cosa serviva il Mammelokker costruito nel 1741?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale dettaglio bisogna osservare sopra il frontone del Mammelokker?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "Quali stili si incontrano sulle facciate del Municipio?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale accordo fu firmato qui nel 1576?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dove si vede meglio la rottura architettonica?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Quale commercio ha dato il nome al Korenmarkt?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale materiale caratterizza la chiesa di San Nicola?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa bisogna osservare soprattutto da Klein Turkije?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "Quando è stato costruito l'attuale ponte in pietra?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale gruppo di monumenti si vede lungo lo stesso asse?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale dettaglio corona il lampione centrale?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "Quale prodotto dominava storicamente il porto interno?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale edificio conserva una facciata romanica molto antica?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Cosa bisogna confrontare lungo il Graslei?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Quale conte fece costruire la fortezza nel 1180?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale attività occupò il castello nel XIX secolo?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale episodio studentesco ebbe luogo nel 1949?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Perché Jacob van Artevelde cercò l’alleanza inglese?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale edificio ricorda il movimento operaio?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Cosa segnalava la campana del Toreken?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Che cosa significa principalmente il nome Ganda?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale trasformazione recente caratterizza Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Cosa bisogna osservare dalle passerelle?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "A quale epoca risale l’origine del Château de Gérard le Diable?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale uso ha avuto in particolare l’edificio?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Cosa rivela l’osservazione della muratura?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Da quando il vicolo è ufficialmente dedicato ai graffiti?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale artista è noto per i suoi grandi animali in bianco e nero?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Cosa bisogna osservare nei muri dipinti?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Quale sovrano nacque al Prinsenhof nel 1500?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Perché i Gantesi furono chiamati Stroppendragers?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Cosa resta soprattutto da osservare oggi?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "A cosa è generalmente collegato il nome Patershol?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In che modo il quartiere si evolse nel XIX secolo?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale dettaglio rivela meglio l’antica suddivisione fondiaria?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "A quale periodo risalgono le parti più antiche di Saint-Jacques?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Chi rilanciò le feste popolari del quartiere nel 1969?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Che cosa bisogna confrontare sulla facciata occidentale?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "Cosa occupava il sito prima della creazione del parco?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale evento trasformò profondamente il parco nel 1913?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale carattere del giardino bisogna notare?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Qual era la principale funzione storica del sito della Bijloke?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In quale anno ha aperto lo STAM?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale elemento aiuta a localizzare i quartieri di Gand?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "A quale periodo la tradizione fa risalire l'abbazia di Saint-Pierre?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale stile domina l’attuale chiesa di San Pietro?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Cosa bisogna percorrere dietro il complesso?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Chi viveva nel beghinaggio Sainte-Élisabeth?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Dove si trasferì la comunità nel XIX secolo?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale soprannome mette in risalto la diversità religiosa del quartiere?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Perché il Rabot fu costruito a partire dal 1489?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Qual era la sua principale funzione tecnica?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale dettaglio aiuta a comprendere il monumento?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "A quale periodo risalgono le origini dell’abbazia di Saint-Bavon?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché gran parte dell’abbazia fu demolita nel 1540?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale struttura evoca la pianta della chiesa scomparsa?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "es": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "¿En qué año se terminó el Cordero Místico?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué panel robado en 1934 sigue faltando todavía?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hay que examinar de cerca en el retablo?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "¿Qué se conservaba en el Beffroi desde 1402?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Para qué servía el Mammelokker construido en 1741?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué detalle hay que mirar encima del frontón del Mammelokker?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "¿Qué estilos se encuentran en las fachadas del Ayuntamiento?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué acuerdo se firmó aquí en 1576?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Dónde se ve mejor la ruptura arquitectónica?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "¿Qué comercio dio su nombre al Korenmarkt?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué material caracteriza la iglesia de San Nicolás?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hay que observar sobre todo desde Klein Turkije?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "¿Cuándo se construyó el puente de piedra actual?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué grupo de monumentos se ve en el mismo eje?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué detalle corona el farol central?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "¿Qué producto dominaba históricamente el puerto interior?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué edificio conserva una fachada románica muy antigua?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué hay que comparar a lo largo del Graslei?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "¿Qué conde mandó construir la fortaleza en 1180?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué actividad ocupó el castillo en el siglo XIX?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué episodio estudiantil tuvo lugar en 1949?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "¿Por qué Jacob van Artevelde buscó la alianza inglesa?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué edificio recuerda al movimiento obrero?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué anunciaba la campana del Toreken?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "¿Qué significa principalmente el nombre Ganda?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué transformación reciente caracteriza a Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hay que observar desde las pasarelas?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "¿De qué época data el origen del Castillo de Gérard le Diable?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué uso tuvo notablemente el edificio?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué revela la observación de la mampostería?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "¿Desde cuándo está oficialmente consagrada al graffiti la callejuela?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué artista es conocido por sus grandes animales en blanco y negro?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué hay que observar en los muros pintados?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "¿Qué soberano nació en el Prinsenhof en 1500?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Por qué a los habitantes de Gante se les llamó Stroppendragers?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué queda sobre todo por observar hoy?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "¿A qué suele vincularse el nombre Patershol?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Cómo evolucionó el barrio en el siglo XIX?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué detalle revela mejor el antiguo parcelario?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "¿A qué época se remontan las partes más antiguas de Saint-Jacques?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Quién reanudó las fiestas populares del barrio en 1969?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué hay que comparar en la fachada occidental?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "¿Qué ocupaba el lugar antes de la creación del parque?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué acontecimiento transformó fuertemente el parque en 1913?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué carácter del jardín hay que observar?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "¿Cuál era la principal función histórica del sitio de la Bijloke?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿En qué año abrió el STAM?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué elemento ayuda a situar los barrios de Gante?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "¿A qué época remonta la tradición la abadía de Saint-Pierre?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué estilo predomina en la actual iglesia de San Pedro?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué hay que recorrer detrás del complejo?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "¿Quién vivía en el beguinaje Santa Isabel?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Adónde se trasladó la comunidad en el siglo XIX?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué apodo resalta la diversidad religiosa del barrio?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "¿Por qué se construyó el Rabot a partir de 1489?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál era su función técnica principal?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué detalle ayuda a comprender el monumento?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "¿A qué período se remontan los orígenes de la abadía de Saint-Bavón?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Por qué se demolió en 1540 gran parte de la abadía?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué dispositivo evoca el plano de la iglesia desaparecida?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "pl": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "W którym roku ukończono Ołtarz Gandawski?",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Który skradziony w 1934 roku panel wciąż jest zaginiony?",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co należy dokładnie obejrzeć w ołtarzu?",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "Co przechowywano w dzwonnicy od 1402 roku?",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Do czego służył Mammelokker zbudowany w 1741 roku?",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Na jaki szczegół należy zwrócić uwagę nad frontonem Mammelokker?",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "Jakie style spotykają się na elewacjach Ratusza?",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki układ podpisano tutaj w 1576 roku?",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Gdzie najlepiej widać architektoniczną zmianę?",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "Jakie handel nadał nazwę placowi Korenmarkt?",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki materiał charakteryzuje kościół św. Mikołaja?",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co przede wszystkim należy obserwować z Klein Turkije?",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "Kiedy został zbudowany obecny kamienny most?",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki zespół zabytków widać na tej samej osi?",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki detal wieńczy centralną latarnię uliczną?",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "Jaki produkt historycznie dominował w porcie wewnętrznym?",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Który budynek zachował bardzo starą romańską fasadę?",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Co należy porównać wzdłuż Graslei?",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "Który hrabia kazał zbudować twierdzę w 1180 roku?",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaką działalność prowadzono w zamku w XIX wieku?",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki epizod studencki miał miejsce w 1949 roku?",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "Dlaczego Jakub van Artevelde szukał sojuszu z Anglią?",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który budynek przypomina o ruchu robotniczym?",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co oznajmiał dzwon Toreken?",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Co oznacza przede wszystkim nazwa Ganda?",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaka niedawna przemiana charakteryzuje Portus Ganda?",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co należy obserwować z kładek?",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "Z jakiego okresu pochodzi powstanie Zamku Gérarda Diabła?",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jakie zastosowanie miał między innymi ten budynek?",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co ujawnia obserwacja murów?",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "Od kiedy uliczka jest oficjalnie poświęcona graffiti?",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Który artysta jest znany ze swoich dużych czarno-białych zwierząt?",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Na co należy zwrócić uwagę na pomalowanych murach?",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "Który władca urodził się w Prinsenhof w 1500 roku?",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Dlaczego mieszkańcy Gandawy byli nazywani Stroppendragers?",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co przede wszystkim pozostało dziś do obserwowania?",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "Z czym zazwyczaj łączy się nazwę Patershol?",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jak zmieniała się dzielnica w XIX wieku?",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Który szczegół najlepiej ujawnia dawny układ działek?",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "Z którego okresu pochodzą najstarsze części kościoła św. Jakuba?",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Kto wznowił popularne święta dzielnicy w 1969 roku?",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Co należy porównać na zachodniej fasadzie?",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "Co zajmowało ten teren przed utworzeniem parku?",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie wydarzenie znacząco odmieniło park w 1913 roku?",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaką cechę ogrodu należy zauważyć?",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Jaką była główna historyczna funkcja kompleksu Bijloke?",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "W którym roku otwarto STAM?",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki element pomaga zlokalizować dzielnice Gandawy?",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "Do jakiego okresu tradycja datuje opactwo Saint-Pierre?",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki styl dominuje w obecnym kościele św. Piotra?",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co trzeba przejść za kompleksem?",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "Kto mieszkał w beghinarium św. Elżbiety?",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Gdzie wspólnota przeniosła się w XIX wieku?",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który przydomek podkreśla religijną różnorodność dzielnicy?",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "Dlaczego Rabot został zbudowany od 1489 roku?",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaka była jego główna funkcja techniczna?",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki szczegół pomaga zrozumieć ten pomnik?",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "Z jakiego okresu pochodzą początki opactwa św. Bawona?",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego duża część opactwa została zburzona w 1540 roku?",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki układ przywołuje plan nieistniejącego kościoła?",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "ar": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "في أي سنة اكتمل إنجاز «الحمل الصوفي»؟",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أي لوحة سُرقت في عام 1934 لا تزال مفقودة؟",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الذي ينبغي فحصه عن قرب في لوحة المذبح؟",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "ما الذي كان يُحفظ في برج الجرس منذ عام 1402؟",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "فيما كان يُستخدم المبنى «ماميلوكَر» الذي شُيّد عام 1741؟",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما التفصيل الذي ينبغي النظر إليه فوق مثلث واجهة مبنى Mammelokker؟",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "ما هي الأساليب المعمارية التي تلتقي على واجهات مبنى البلدية؟",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الاتفاق الذي وُقِّع هنا في عام 1576؟",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أين نرى الانفصال المعماري بأوضح صورة؟",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "أيُّ تجارةٍ أعطت اسمها إلى Korenmarkt؟",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما المادة التي تميّز كنيسة القديس نيكولا؟",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الذي ينبغي ملاحظته بشكل خاص من Klein Turkije؟",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "متى شُيِّد الجسر الحجري الحالي؟",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي مجموعة من المعالم تُرى على نفس المحور؟",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التفصيل الذي يعلو عمود الإنارة المركزي؟",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "ما المنتج الذي كان يهيمن تاريخيًا على الميناء الداخلي؟",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أي مبنى يحتفظ بواجهة رومانية قديمة جدًا؟",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ماذا ينبغي مقارنته على طول غراسلاي؟",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "أيُّ كونتٍ أمرَ ببناءِ القلعةِ في عام 1180؟",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما النشاط الذي شغل القلعة في القرن التاسع عشر؟",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيّ حدثٍ طلابيٍّ وقع عام 1949؟",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "لماذا سعى يان فان آرتيفيلدي إلى التحالف مع إنجلترا؟",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أيّ مبنى يذكّر بالحركة العمالية؟",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ماذا كانت تُعلن عنه جرس توركن؟",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "ماذا يعني اسم غاندا بشكل أساسي؟",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما التحول الأخير الذي يميز بورطوس غاندا؟",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الذي ينبغي ملاحظته من فوق الممرات؟",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "إلى أي حقبة يعود أصل قصر جيرار الشيطان؟",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الاستخدام الذي عُرف به المبنى، على وجه الخصوص؟",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ماذا يكشف تأمل البناء الحجري؟",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "منذ متى أُعلنت هذه الزقاق رسميًا مخصصةً للغرافيتي؟",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيُّ فنانٍ معروفٌ بحيواناته الكبيرة السوداء والبيضاء؟",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الذي ينبغي ملاحظته في الجدران المرسومة؟",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "أيُّ حاكمٍ وُلد في برينسنهوف سنة 1500؟",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "لماذا أُطلق على سكان غنت اسم «حاملي الحبل»؟",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الذي يبقى خاصةً مما يمكن ملاحظته اليوم؟",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "إلى ماذا يُنسب اسم باترشول عادةً؟",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "كيف تطوّر الحي في القرن التاسع عشر؟",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيّ تفصيل يكشف أفضل عن التقسيم القديم للقطع العقارية؟",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "إلى أي فترة تعود أقدم أجزاء كنيسة سان-جاك؟",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "من أعاد إطلاق الاحتفالات الشعبية في الحي عام 1969؟",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الذي ينبغي مقارنته على الواجهة الغربية؟",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "ماذا كان يشغل الموقع قبل إنشاء الحديقة؟",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الحدث الذي غيّر الحديقة بشكل كبير في عام 1913؟",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الطابع الذي ينبغي ملاحظته في الحديقة؟",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "ما كانت الوظيفة التاريخية الرئيسية لموقع بيجلوك؟",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "في أي سنة افتتح STAM؟",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما العنصر الذي يساعد على تحديد موقع أحياء خنت؟",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "إلى أي فترة تُرجِع التقاليد تأسيس دير سان بيير؟",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الطراز السائد في كنيسة سان بيير الحالية؟",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الذي يجب اجتيازه خلف المجمع؟",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "من كان يعيش في البِغِناغ سَنت-إليزابيث؟",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "إلى أين انتقلت الجماعة في القرن التاسع عشر؟",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما اللقب الذي يبرز التنوع الديني في الحي؟",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "لماذا شُيّد مبنى رابو ابتداءً من سنة 1489؟",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما كانت وظيفته التقنية الرئيسية؟",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التفاصيل التي تساعد على فهم النصب التذكاري؟",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "إلى أي فترة تعود أصول دير سان بابون؟",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا هُدِمَ جزء كبير من الدير عام 1540؟",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الجهاز الذي يستحضره مخطط الكنيسة التي اندثرت؟",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "cn": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "《神秘羔羊》是在哪一年完成的？",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "1934年被盗的哪一块画板至今仍然缺失？",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在这幅祭坛画中应该仔细查看什么？",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "自 1402 年起，钟楼里存放着什么？",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "建于1741年的 Mammelokker 有什么用途？",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在 Mammelokker 的山墙上方需要留意哪个细节？",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "市政厅立面上汇聚了哪些风格？",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "1576年在这里签署了什么协议？",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "在哪儿最能看出这种建筑风格的断裂？",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "哪个商业活动赋予了科伦马克特广场这个名字？",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "圣尼古拉斯教堂的标志性材料是什么？",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "从 Klein Turkije 出发，最值得重点观察的是什么？",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "现存的石桥是什么时候建造的？",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在同一轴线上可以看到哪一组纪念性建筑？",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪个细节装饰着中央的路灯顶端？",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "历史上，哪种产品曾主导内港？",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "哪座建筑保留着一面非常古老的罗马式立面？",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "沿着格拉斯莱，应该比较什么？",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "哪位伯爵于1180年修建了这座堡垒？",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "19世纪，这座城堡曾被用于什么活动？",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1949年发生了什么学生事件？",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "雅各布·范·阿尔特韦尔德为何寻求与英国结盟？",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪座建筑让人联想到工人运动？",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Toreken 的钟声意味着什么？",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "Ganda 这个名字主要是什么意思？",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "哪项近期改造是 Portus Ganda 的显著特征？",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "从人行桥上应该观察什么？",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "加拉尔德恶魔城堡的起源可追溯到哪个时期？",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "这座建筑曾主要用于什么用途？",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "通过观察砌体能发现什么？",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "这条小巷从什么时候起正式被指定为涂鸦区？",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪位艺术家以其巨大的黑白动物而闻名？",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "在彩绘墙面上需要观察什么？",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "1500年，哪位君主诞生于普林森霍夫？",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "为什么根特人被称为“绞索佩戴者”？",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "今天最值得观察的主要是什么？",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "Patershol 这个名字通常与什么有关？",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "这个街区在19世纪是如何演变的？",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪个细节最能揭示旧地块划分？",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "圣雅各教堂最古老的部分可追溯到什么时期？",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "是谁在1969年重新举办了该社区的民间节庆？",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "西立面上需要比较什么？",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "在公园建成之前，这块场地曾被用作什么？",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1913年，是什么事件极大地改变了这座公园？",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "花园里有什么特点值得注意？",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Bijloke 场地历史上最重要的功能是什么？",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "STAM是哪一年开放的？",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪一项有助于定位根特的各个街区？",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "根据传统，圣皮埃尔修道院可追溯到哪个时期？",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "如今的圣彼得教堂以哪种风格为主？",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "在建筑群后面需要走过什么？",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "谁住在圣伊丽莎白贝居安会院？",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "这群社区在19世纪搬到了哪里？",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪个昵称突出了该街区的宗教多样性？",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "为什么 Rabot 是从 1489 年开始建造的？",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "它的主要技术功能是什么？",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪个细节有助于理解这座纪念碑？",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "圣巴冯修道院的起源可以追溯到哪个时期？",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么修道院的大部分在1540年被拆毁？",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "失去的教堂平面图让人联想到哪种装置？",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "ja": {
+    "Cathédrale Saint-Bavon et Agneau Mystique": [
+      {
+        "question": "《神秘の子羊》は何年に完成しましたか？",
+        "options": [
+          "En 1500, année de naissance de Charles Quint",
+          "En 1559, lors de la création du diocèse",
+          "En 1432"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "1934年に盗まれたどのパネルが、今もなお失われたままでしょうか？",
+        "options": [
+          "À loger le carillonneur et sa famille",
+          "Adam dans le registre supérieur",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "祭壇画のどこを詳しく見るべきでしょうか？",
+        "options": [
+          "Les armoiries ajoutées par Napoléon",
+          "Le mécanisme caché qui ouvre les volets",
+          "La lumière, les bijoux et les plantes minutieusement peints"
+        ],
+        "answer": 1
+      }
+    ],
+    "Beffroi, Halle aux draps et Mammelokker": [
+      {
+        "question": "1402年から、鐘楼には何が保管されていたのでしょうか？",
+        "options": [
+          "Les chartes et privilèges de la ville",
+          "Les matrices secrètes des peintres Van Eyck",
+          "Les réserves de laine de la Halle aux draps"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1741年に建てられたMammelokkerは、何のために使われていましたか？",
+        "options": [
+          "À former l'entrée de la prison municipale",
+          "À loger le carillonneur et sa famille",
+          "À mesurer les ballots de drap exportés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Mammelokkerのペディメントの上で、どの細部に注目すべきでしょうか？",
+        "options": [
+          "Le plan sculpté des canaux de Gand",
+          "La fille nourrissant son père prisonnier",
+          "Une bataille entre tisserands et chevaliers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Hôtel de Ville de Gand": [
+      {
+        "question": "市庁舎のファサードには、どのような様式が見られますか？",
+        "options": [
+          "Le roman mosan et l'Art nouveau",
+          "Le gothique flamboyant et la Renaissance",
+          "Le baroque jésuite et le brutalisme"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "1576年にここで署名された協定は何でしたか？",
+        "options": [
+          "Le grès blanc extrait près d'Aalst",
+          "Le traité mettant fin à la guerre de Cent Ans",
+          "La Joyeuse Entrée de Charles Quint"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "建築上の断絶はどこで最もよく見られますか？",
+        "options": [
+          "Sous les arcades du Mammelokker",
+          "À l'angle de Botermarkt et Hoogpoort",
+          "Depuis le jardin de l'abbaye Saint-Pierre"
+        ],
+        "answer": 2
+      }
+    ],
+    "Korenmarkt et église Saint-Nicolas": [
+      {
+        "question": "どの商売が Korenmarkt にその名を与えたのでしょうか？",
+        "options": [
+          "La vente de draps teints dans les ateliers du Rabot",
+          "Le marché du grain arrivé par les voies d'eau",
+          "Le négoce de chevaux organisé devant le Prinsenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "サン＝ニコラ教会の特徴的な素材は何ですか？",
+        "options": [
+          "La pierre bleutée de Tournai",
+          "Le grès blanc extrait près d'Aalst",
+          "La brique rouge vernissée des béguinages"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "クライン・トゥルクハイエからは、特に何を観察すべきでしょうか？",
+        "options": [
+          "Les mosaïques du portail consacrées aux bateliers",
+          "La tour centrale massive et les nuances de la pierre",
+          "La coupole baroque ajoutée par Charles Quint"
+        ],
+        "answer": 2
+      }
+    ],
+    "Pont Saint-Michel": [
+      {
+        "question": "現在の石橋はいつ建設されましたか？",
+        "options": [
+          "Vers 1540 pour l'entrée de Charles Quint",
+          "Au début du XXe siècle, avant l'Exposition de 1913",
+          "Dans les années 1970 avec la zone piétonne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "同じ軸上に見えるのは、どの記念建造物群でしょうか？",
+        "options": [
+          "Le Rabot, le Prinsenhof et l'abbaye Saint-Bavon",
+          "L'église Saint-Nicolas, le Beffroi et la cathédrale",
+          "Le STAM, la Tour des Livres et le SMAK"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "中央の街灯の頂部を飾っているのはどのような細部でしょうか？",
+        "options": [
+          "Une nef chargée de sacs de grain",
+          "Saint Michel terrassant le dragon",
+          "Le dragon doré du Beffroi tenant une cloche"
+        ],
+        "answer": 2
+      }
+    ],
+    "Graslei et Korenlei": [
+      {
+        "question": "歴史的に内港を支配していた製品は何でしたか？",
+        "options": [
+          "Le charbon extrait sous le Citadelpark",
+          "Le sel marin raffiné dans le Patershol",
+          "Le grain stocké et taxé sur les quais"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "非常に古いロマネスク様式のファサードを今も残している建物はどれですか？",
+        "options": [
+          "Le Spijker, ancien grenier à grain",
+          "L'ancien bureau de poste du Korenmarkt",
+          "La Maison des Francs-Bateliers"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Grasleiに沿って何を比較すればよいでしょうか？",
+        "options": [
+          "Les statues équestres consacrées aux comtes",
+          "Les vitraux industriels installés sur les entrepôts",
+          "Les formes variées des pignons et leurs blasons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château des Comtes": [
+      {
+        "question": "1180年にこの城塞を建設させた伯爵は誰ですか？",
+        "options": [
+          "Baudouin de Constantinople après 1204",
+          "Louis de Male lors de la révolte des tisserands",
+          "Philippe d'Alsace"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "19世紀にこの城で営まれていた活動は何でしたか？",
+        "options": [
+          "Une école de navigation fluviale",
+          "Une filature de coton et des logements ouvriers",
+          "La première gare postale de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1949年に起きた学生時代の出来事は何ですか？",
+        "options": [
+          "Une représentation nocturne de l'Agneau Mystique",
+          "Un concours de tir organisé depuis les remparts",
+          "L'occupation du château lors de la bataille du Gravensteen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Vrijdagmarkt et Jacob van Artevelde": [
+      {
+        "question": "なぜヤコブ・ファン・アルテベルデはイングランドとの同盟を求めたのでしょうか？",
+        "options": [
+          "Pour obtenir des pierres destinées au Beffroi",
+          "Pour garantir l'approvisionnement en laine de l'industrie drapière",
+          "Pour installer une flotte militaire sur la Lys"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どの建物が労働運動を思い起こさせますか？",
+        "options": [
+          "Ons Huis, ancienne Maison du Peuple",
+          "La halle gothique du Mammelokker",
+          "Le pavillon royal de l'Exposition de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "トレケンの鐘は何を告げていたのでしょうか？",
+        "options": [
+          "Les crues dangereuses de la Lys",
+          "Les arrivées du comte au Château des Comtes",
+          "L'ouverture et la fermeture du marché"
+        ],
+        "answer": 1
+      }
+    ],
+    "Portus Ganda et confluence": [
+      {
+        "question": "ガンダという名前は主に何を意味しますか？",
+        "options": [
+          "Le marché protégé par un comte",
+          "La colline où poussaient les premiers vignobles",
+          "La confluence de deux cours d'eau"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "最近のどのような変化がPortus Gandaの特徴となっていますか？",
+        "options": [
+          "La reconquête des quais et l'aménagement d'une marina",
+          "La création d'un port industriel pour conteneurs",
+          "La couverture complète de l'Escaut par une avenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "橋からは何を観察すべきでしょうか？",
+        "options": [
+          "Les sculptures des corporations de bateliers",
+          "Les rails d'une ancienne ligne vers le château",
+          "Les niveaux d'eau, ponts et structures de quais"
+        ],
+        "answer": 0
+      }
+    ],
+    "Château de Gérard le Diable": [
+      {
+        "question": "ジラール・ル・ディアーブル城の起源は、どの時代にさかのぼるでしょうか？",
+        "options": [
+          "Du règne de Charles Quint au XVIe siècle",
+          "Du XIIIe siècle",
+          "De la reconstruction urbaine de 1913"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "この建物は、とりわけどのような用途で使われていましたか？",
+        "options": [
+          "Une bourse internationale du grain",
+          "Un hospice, une prison et des archives",
+          "Une résidence permanente des comtes de Flandre"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "石造りの観察から何がわかるでしょうか？",
+        "options": [
+          "Les marques des bateaux amarrés au mur",
+          "La trace d'une ancienne fresque de Van Eyck",
+          "Les différentes campagnes médiévales et restaurations"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ruelle aux graffitis — Werregarenstraat": [
+      {
+        "question": "この路地が正式にグラフィティ専用となったのはいつからですか？",
+        "options": [
+          "Depuis 1995",
+          "Depuis l'année Van Eyck 2020",
+          "Depuis les Fêtes de Gand de 1969"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "大きな白黒の動物で知られている芸術家は誰ですか？",
+        "options": [
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Il devint le siège de la cour provinciale",
+          "Jan Hoet"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "彩色された壁では何に注目すべきでしょうか？",
+        "options": [
+          "Les plaques indiquant un ordre officiel de visite",
+          "Les signatures gravées des comtes de Flandre",
+          "Les couches anciennes qui réapparaissent sous les œuvres nouvelles"
+        ],
+        "answer": 1
+      }
+    ],
+    "Prinsenhof et mémoire de Charles Quint": [
+      {
+        "question": "1500年にプリンセンホフで生まれた君主は誰ですか？",
+        "options": [
+          "Charles Quint",
+          "Aux religieux du couvent voisin",
+          "Au XIIe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "なぜゲントの人々は「ストロッペンドラゲルス」と呼ばれたのでしょうか？",
+        "options": [
+          "Des notables durent marcher avec une corde au cou en 1540",
+          "Ils tiraient les cloches du Beffroi avec de longues cordes",
+          "Les tisserands portaient une ceinture de chanvre réglementaire"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "今日、特に何を観察できますか？",
+        "options": [
+          "Les douves remplies et le pont-levis d'origine",
+          "Des portes, tracés de rues et fragments intégrés au quartier",
+          "La salle du trône conservée derrière une façade classique"
+        ],
+        "answer": 2
+      }
+    ],
+    "Patershol": [
+      {
+        "question": "パーテルスホルという名前は、一般的に何に由来するとされていますか？",
+        "options": [
+          "Aux religieux du couvent voisin",
+          "Aux bateliers qui creusaient les canaux",
+          "Aux gardiens chargés des portes de la ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "この地区は19世紀にどのように変化しましたか？",
+        "options": [
+          "Il devint le siège de la cour provinciale",
+          "Il se paupérisa et les maisons furent subdivisées",
+          "Il fut entièrement reconstruit pour l'Exposition de 1913"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "どの細部が、旧来の土地割りを最もよく示していますか？",
+        "options": [
+          "Les rails de tram conservés sous les pavés",
+          "Les statues de corporations alignées aux carrefours",
+          "Les murs irréguliers, portes basses et changements de largeur"
+        ],
+        "answer": 0
+      }
+    ],
+    "Église Saint-Jacques et Bij Sint-Jacobs": [
+      {
+        "question": "サン・ジャック教会の最も古い部分は、いつごろの時代にさかのぼるのでしょうか？",
+        "options": [
+          "À la reconstruction après l'incendie de 1678",
+          "À l'Exposition universelle de 1913",
+          "Au XIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "1969年にこの地区の民衆祭を再開したのは誰ですか？",
+        "options": [
+          "La signature de la Pacification de Gand",
+          "En 1913 pour l'Exposition universelle",
+          "Le peintre Jan van Eyck"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "西側ファサードでは何を比較する必要がありますか？",
+        "options": [
+          "Les fresques de l'école symboliste",
+          "Les tours romanes et les ajouts gothiques",
+          "Les blasons des nations marchandes"
+        ],
+        "answer": 2
+      }
+    ],
+    "Citadelpark": [
+      {
+        "question": "公園が造られる前、この場所には何がありましたか？",
+        "options": [
+          "Une citadelle construite après 1815",
+          "Le palais natal de Charles Quint",
+          "Le principal chantier naval des bateliers"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1913年に公園を大きく変えた出来事は何でしたか？",
+        "options": [
+          "Le gothique scaldien",
+          "La première édition des Gentse Feesten",
+          "La signature de la Pacification de Gand"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "庭園のどの特徴に注目すべきでしょうか？",
+        "options": [
+          "Ses canaux destinés aux péniches de commerce",
+          "Ses alignements rectilignes inspirés de Versailles",
+          "Ses chemins courbes et découvertes paysagères successives"
+        ],
+        "answer": 1
+      }
+    ],
+    "STAM et site de la Bijloke": [
+      {
+        "question": "Bijlokeの歴史的な主要機能は何でしたか？",
+        "options": [
+          "Un hôpital fondé au Moyen Âge",
+          "Une résidence de chasse des comtes",
+          "Un entrepôt réservé au commerce anglais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "STAMは何年に開館しましたか？",
+        "options": [
+          "En 1913 pour l'Exposition universelle",
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "En 1969 avec la relance des Fêtes de Gand"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ゲントの地区の位置を把握するのに役立つ要素はどれですか？",
+        "options": [
+          "Une série de portraits de tous les bourgmestres",
+          "Le carillon miniature installé dans le cloître",
+          "Une grande photographie aérienne praticable"
+        ],
+        "answer": 1
+      }
+    ],
+    "Abbaye Saint-Pierre et Mont Blandin": [
+      {
+        "question": "伝承によれば、サン＝ピエール修道院の創建はどの時代にさかのぼるのでしょうか？",
+        "options": [
+          "Au XIe siècle après la première croisade",
+          "Au XVIIIe siècle sous Marie-Thérèse",
+          "Au VIIe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "現在のサン＝ピエール教会を支配している様式は何ですか？",
+        "options": [
+          "Le gothique scaldien",
+          "À l'abbaye Saint-Pierre",
+          "L'Art déco de l'entre-deux-guerres"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "複合施設の裏手には何を通らなければなりませんか？",
+        "options": [
+          "Les ateliers de tissage encore en activité",
+          "Les jardins en terrasses et leur petit vignoble",
+          "Les douves militaires remplies en 1913"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ancien béguinage Sainte-Élisabeth": [
+      {
+        "question": "サント・エリザベト・ベギナージュには誰が住んでいたのでしょうか？",
+        "options": [
+          "Des béguines menant une vie religieuse sans vœux définitifs",
+          "Des veuves de comtes obligées de rester cloîtrées",
+          "Des ouvrières recrutées par la filature du Gravensteen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "19世紀に共同体はどこへ移転しましたか？",
+        "options": [
+          "Au grand béguinage de Sint-Amandsberg",
+          "À l'abbaye Saint-Pierre",
+          "Mesurer la hauteur des ballots de laine"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どのあだ名がこの地区の宗教的多様性を強調していますか？",
+        "options": [
+          "Le quartier des trois tours",
+          "Les fresques représentant les Gentse Feesten",
+          "Le holy corner, ou coin sacré"
+        ],
+        "answer": 0
+      }
+    ],
+    "Rabot": [
+      {
+        "question": "ラボは、なぜ1489年から建設されたのでしょうか？",
+        "options": [
+          "Pour protéger la naissance de Charles Quint",
+          "Pour célébrer la résistance contre Maximilien d'Autriche",
+          "Pour taxer les pèlerins allant à Saint-Jacques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "彼の主な技術的役割は何でしたか？",
+        "options": [
+          "Mesurer la hauteur des ballots de laine",
+          "Contrôler une écluse sur la Lieve",
+          "Actionner les cloches du Beffroi à distance"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "どの細部がこの記念碑を理解する助けになりますか？",
+        "options": [
+          "Les statues des quatre évangélistes",
+          "Les traces de niveaux et mécanismes liés à l'eau",
+          "Les fresques représentant les Gentse Feesten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Ruines de l’abbaye Saint-Bavon": [
+      {
+        "question": "サン＝バヴォン修道院の起源はいつの時代にさかのぼりますか？",
+        "options": [
+          "Au XIIe siècle sous Philippe d'Alsace",
+          "Au VIIe siècle",
+          "Au XVIe siècle après la révolte de Gand"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "なぜ修道院の大部分は1540年に取り壊されたのでしょうか？",
+        "options": [
+          "Pour ouvrir le premier bassin de Portus Ganda",
+          "Pour construire une citadelle ordonnée par Charles Quint",
+          "Pour fournir des pierres à l'Hôtel de Ville"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "失われた教会の平面図を思わせるのは、どの設備でしょうか？",
+        "options": [
+          "Une maquette de bronze à l'échelle réelle",
+          "Des haies taillées comme des murs végétaux",
+          "Des canaux étroits remplis d'eau"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

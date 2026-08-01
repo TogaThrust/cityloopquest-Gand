@@ -1,0 +1,44 @@
+{
+  "name": "CityLoop Quest Gand",
+  "short_name": "CLQ Gand",
+  "start_url": "/index.html?pwa=1",
+  "display": "standalone",
+  "background_color": "#b30000",
+  "theme_color": "#b30000",
+  "description": "Gand se découvre entre confluence, quais marchands, forteresse, grandes tours, abbayes, patrimoine industriel, université et quartiers créatifs.",
+  "orientation": "landscape",
+  "scope": "./",
+  "categories": [
+    "navigation",
+    "travel"
+  ],
+  "lang": "fr",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/cityLoopQuest_Gand_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/cityLoopQuest_Gand_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/cityLoopQuest_Gand_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/cityLoopQuest_Gand_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,1820 @@
+{
+  "generatedAt": "2026-07-31T21:01:15.925Z",
+  "model": "gpt-4o-mini-tts",
+  "voice": "Remi",
+  "files": {
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_fr.mp3": {
+      "hash": "ff9f6b795dc4914213e06eef5c4b11403fd67d0c",
+      "lang": "fr",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:01:55.813Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_nl.mp3": {
+      "hash": "44ba73c0bfe40c17c81c01fd0e02618d6cda57aa",
+      "lang": "nl",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:02:18.884Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_en.mp3": {
+      "hash": "45f83b3cdd30fd1c067f428bdd6c973aa5032841",
+      "lang": "en",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:02:40.564Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_de.mp3": {
+      "hash": "5c57e3abb78308584daaee6f573c8ae7234f0f06",
+      "lang": "de",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:03:07.662Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_it.mp3": {
+      "hash": "407868fad327d99c23062fd5aebfa8432424a161",
+      "lang": "it",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:03:42.471Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_es.mp3": {
+      "hash": "ea64c539dfc9bb875d9cb0798fa01f2e966baedd",
+      "lang": "es",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:04:04.344Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_pl.mp3": {
+      "hash": "27d6907e1360255ab6c61e8b446cef3599dc688b",
+      "lang": "pl",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:04:08.928Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_ar.mp3": {
+      "hash": "9cfb694bfeec26a3a29a421f500b31992f290e1d",
+      "lang": "ar",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:04:13.810Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_cn.mp3": {
+      "hash": "f031ee7da7d5d4d1e45a04eda1df3923f6082a1c",
+      "lang": "cn",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:04:18.572Z"
+    },
+    "audio/Cathedrale_Saint_Bavon_et_Agneau_Mystique_ja.mp3": {
+      "hash": "064fdd1cee87eab6651dd6f05cb1fdcc79eeced3",
+      "lang": "ja",
+      "label": "POI parcours: Cathédrale Saint-Bavon et Agneau Mystique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:04:24.199Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_fr.mp3": {
+      "hash": "f57c0b2cd4435efcab23c71d3d44775c19714bc4",
+      "lang": "fr",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:04:43.381Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_nl.mp3": {
+      "hash": "abf5a210779441900aeb07f3072558decccdb332",
+      "lang": "nl",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:05:07.177Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_en.mp3": {
+      "hash": "c7a34cf787c0258a2793a5a76ff83fb9c0a90c74",
+      "lang": "en",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:05:28.516Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_de.mp3": {
+      "hash": "2d413297154730f750a4f67509fbab73bc686cf2",
+      "lang": "de",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:05:54.993Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_it.mp3": {
+      "hash": "320851f3b1e7467045d3f72eb378ad31157e4404",
+      "lang": "it",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:06:30.162Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_es.mp3": {
+      "hash": "fdf67ae9495f26efab2867e61b00437b9d532e8e",
+      "lang": "es",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:06:51.913Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_pl.mp3": {
+      "hash": "3489b90d4528359e0bb966fa99b43fcdb736db3f",
+      "lang": "pl",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:06:56.614Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_ar.mp3": {
+      "hash": "ac9e3536f8037dca16598baf4d3f726894d82f6b",
+      "lang": "ar",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:07:01.505Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_cn.mp3": {
+      "hash": "50db0942d59a884cae07e941ef606c32472f892d",
+      "lang": "cn",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:07:06.238Z"
+    },
+    "audio/Beffroi_Halle_aux_draps_et_Mammelokker_ja.mp3": {
+      "hash": "38cbc37f41cf256a7ae8ab83a4cf85e25a114369",
+      "lang": "ja",
+      "label": "POI parcours: Beffroi, Halle aux draps et Mammelokker",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:07:11.971Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_fr.mp3": {
+      "hash": "859be5c6b58357c81a0399dafe1e89c3ad9e80b9",
+      "lang": "fr",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:07:31.702Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_nl.mp3": {
+      "hash": "13754899693743079369b38b7274c82966b81d43",
+      "lang": "nl",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:07:54.752Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_en.mp3": {
+      "hash": "d1512f8b4c3e7013154a3968edb05656442739d3",
+      "lang": "en",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:08:15.814Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_de.mp3": {
+      "hash": "987dfa647e2b481d48c2cc7c47f336234eaf8a94",
+      "lang": "de",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:08:41.739Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_it.mp3": {
+      "hash": "e9c2c156d9b216f5f0d59d29042ba69e844a7801",
+      "lang": "it",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:09:16.357Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_es.mp3": {
+      "hash": "9c91f0d0845603b26c319d8953da75ff380bf2e4",
+      "lang": "es",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:09:38.365Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_pl.mp3": {
+      "hash": "d2befbb62415f7ee2b9c78d7361f3b038664bbc1",
+      "lang": "pl",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:09:42.733Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_ar.mp3": {
+      "hash": "d1394c4d7be71a52ccbf5909ed61453cdde41aad",
+      "lang": "ar",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:09:47.226Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_cn.mp3": {
+      "hash": "6c1cc61f6c8f634f06a990c1e4218a115e4e5e80",
+      "lang": "cn",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:09:51.835Z"
+    },
+    "audio/Hotel_de_Ville_de_Gand_ja.mp3": {
+      "hash": "739c9a65f9e29013659819be528c9004f287cb10",
+      "lang": "ja",
+      "label": "POI parcours: Hôtel de Ville de Gand",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:09:57.498Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_fr.mp3": {
+      "hash": "1f5103eb9851fae216bea4696d9032297426ccea",
+      "lang": "fr",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:10:18.554Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_nl.mp3": {
+      "hash": "e2fb1f4f8f74e49d5a84707e259037857948e6fb",
+      "lang": "nl",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:10:43.518Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_en.mp3": {
+      "hash": "f07e3889c618d2b87d1eb98d3d1e55a8b23df718",
+      "lang": "en",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:11:05.307Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_de.mp3": {
+      "hash": "e169f5f170dce747329b4f56d6332c2933cdbeed",
+      "lang": "de",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:11:33.559Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_it.mp3": {
+      "hash": "4fe323fc2796b38cda4f2782ffd3f09e67c3a855",
+      "lang": "it",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:12:11.535Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_es.mp3": {
+      "hash": "988adb47317a4ab3a10ab70ecfe2a1dddce0cfdf",
+      "lang": "es",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:12:34.665Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_pl.mp3": {
+      "hash": "a88f1682f6c901423baf751ee2c7fd6f9a4fa9b4",
+      "lang": "pl",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:12:39.343Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_ar.mp3": {
+      "hash": "512e63a7daa3557220e9af28022b78739c9c5b2d",
+      "lang": "ar",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:12:44.445Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_cn.mp3": {
+      "hash": "8b047072b5307d23ab958f65b7daebc235776fa6",
+      "lang": "cn",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:12:49.219Z"
+    },
+    "audio/Korenmarkt_et_eglise_Saint_Nicolas_ja.mp3": {
+      "hash": "5a9d74aa67ab6f290f339e42abbb79aecfbe2894",
+      "lang": "ja",
+      "label": "POI parcours: Korenmarkt et église Saint-Nicolas",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:12:55.177Z"
+    },
+    "audio/Pont_Saint_Michel_fr.mp3": {
+      "hash": "94b2775eb4ae361332448b85d85693496bca2dd9",
+      "lang": "fr",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:13:15.395Z"
+    },
+    "audio/Pont_Saint_Michel_nl.mp3": {
+      "hash": "1821d20a646df0a0eb5ca6eebc867cb17d8a02cd",
+      "lang": "nl",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:13:39.304Z"
+    },
+    "audio/Pont_Saint_Michel_en.mp3": {
+      "hash": "7eb03382326788a3f3a9122924439d3eb5b3cd07",
+      "lang": "en",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:14:00.504Z"
+    },
+    "audio/Pont_Saint_Michel_de.mp3": {
+      "hash": "38d840f42c4c132bbddfe1bc7b81aa40dbbbf06a",
+      "lang": "de",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:14:27.462Z"
+    },
+    "audio/Pont_Saint_Michel_it.mp3": {
+      "hash": "b18bc234a760077a5fd1f91d08f201f86e1c991e",
+      "lang": "it",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:15:04.678Z"
+    },
+    "audio/Pont_Saint_Michel_es.mp3": {
+      "hash": "d11c91ab1fb8eae468c4d3eb6db169fb97263f2b",
+      "lang": "es",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:15:26.730Z"
+    },
+    "audio/Pont_Saint_Michel_pl.mp3": {
+      "hash": "7816e22aecca4da9df7290f240b388394f4fe8bc",
+      "lang": "pl",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:15:31.589Z"
+    },
+    "audio/Pont_Saint_Michel_ar.mp3": {
+      "hash": "08d40d13d46e9293d7eb346fb9a7162b70db76b0",
+      "lang": "ar",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:15:36.631Z"
+    },
+    "audio/Pont_Saint_Michel_cn.mp3": {
+      "hash": "b87ab54e6fdbcd0d7ab5fc5d609f201e1dc077cf",
+      "lang": "cn",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:15:41.151Z"
+    },
+    "audio/Pont_Saint_Michel_ja.mp3": {
+      "hash": "e38043e3722de7f2861e30a54ea8bcbb4298b781",
+      "lang": "ja",
+      "label": "POI parcours: Pont Saint-Michel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:15:46.996Z"
+    },
+    "audio/Graslei_et_Korenlei_fr.mp3": {
+      "hash": "df0668b4d2429457e58578768b67b96ca53844e5",
+      "lang": "fr",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:16:07.110Z"
+    },
+    "audio/Graslei_et_Korenlei_nl.mp3": {
+      "hash": "c3894cea3495fb2fc9f09c7c7c0064c97a7d93ab",
+      "lang": "nl",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:16:29.942Z"
+    },
+    "audio/Graslei_et_Korenlei_en.mp3": {
+      "hash": "50b85336b8e2a053d3b13597589b3dbb32094c49",
+      "lang": "en",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:16:50.266Z"
+    },
+    "audio/Graslei_et_Korenlei_de.mp3": {
+      "hash": "06dd2447b69e649346782213a8c2d41cb4ef5734",
+      "lang": "de",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:17:15.627Z"
+    },
+    "audio/Graslei_et_Korenlei_it.mp3": {
+      "hash": "ac264ef453a22b4095387be3afc16c642e9e7a19",
+      "lang": "it",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:17:51.136Z"
+    },
+    "audio/Graslei_et_Korenlei_es.mp3": {
+      "hash": "4348c78101762616af76b8177ef3ca877390525c",
+      "lang": "es",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:18:13.449Z"
+    },
+    "audio/Graslei_et_Korenlei_pl.mp3": {
+      "hash": "ad95097d2cc74ac36cdffd62467f608ccb7bac63",
+      "lang": "pl",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:18:18.020Z"
+    },
+    "audio/Graslei_et_Korenlei_ar.mp3": {
+      "hash": "81952523c52fa1b369142508e11a844ac1b56c0f",
+      "lang": "ar",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:18:22.978Z"
+    },
+    "audio/Graslei_et_Korenlei_cn.mp3": {
+      "hash": "a6d20d487203bcaf7ffb830f5d446b825556de70",
+      "lang": "cn",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:18:27.637Z"
+    },
+    "audio/Graslei_et_Korenlei_ja.mp3": {
+      "hash": "86d6743caf9eb694baf01d98547f0e78323a83d3",
+      "lang": "ja",
+      "label": "POI parcours: Graslei et Korenlei",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:18:33.290Z"
+    },
+    "audio/Chateau_des_Comtes_fr.mp3": {
+      "hash": "635c54d82fe63ae10e39ddd8a6c134ccf6cd5e5d",
+      "lang": "fr",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:18:54.456Z"
+    },
+    "audio/Chateau_des_Comtes_nl.mp3": {
+      "hash": "139b0b9ec5be97bbbd1908570f60de1af7162593",
+      "lang": "nl",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:19:17.586Z"
+    },
+    "audio/Chateau_des_Comtes_en.mp3": {
+      "hash": "efd87c84c283ecd07c5d03040ce4d75e5f9225a8",
+      "lang": "en",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:19:39.225Z"
+    },
+    "audio/Chateau_des_Comtes_de.mp3": {
+      "hash": "bc9b60e5c02e3fda2b3f4cc432bffb62cd56738c",
+      "lang": "de",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:20:05.321Z"
+    },
+    "audio/Chateau_des_Comtes_it.mp3": {
+      "hash": "6bbbc7049e7e07fc64958081db7a86a79879e27e",
+      "lang": "it",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:20:43.069Z"
+    },
+    "audio/Chateau_des_Comtes_es.mp3": {
+      "hash": "6010d5395b0916741c9082adf5040b629224dfeb",
+      "lang": "es",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:21:05.476Z"
+    },
+    "audio/Chateau_des_Comtes_pl.mp3": {
+      "hash": "21f54124e45e9f4133704d81bdf1c0127a6612bd",
+      "lang": "pl",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:21:10.118Z"
+    },
+    "audio/Chateau_des_Comtes_ar.mp3": {
+      "hash": "d739483285a5dd8774f3adf06b00fc20981e6739",
+      "lang": "ar",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:21:15.056Z"
+    },
+    "audio/Chateau_des_Comtes_cn.mp3": {
+      "hash": "7e6091ae26fd2127b4a171d32d5728633de9a57a",
+      "lang": "cn",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:21:19.654Z"
+    },
+    "audio/Chateau_des_Comtes_ja.mp3": {
+      "hash": "bfd454e46448770370e9264b0a16f0ae3ed52e4d",
+      "lang": "ja",
+      "label": "POI parcours: Château des Comtes",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:21:25.484Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_fr.mp3": {
+      "hash": "d920de1672d54d51412517fc74502b993039cf83",
+      "lang": "fr",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:21:45.606Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_nl.mp3": {
+      "hash": "ff3fbb3d621e6f4f704ed145b8feb7e159206559",
+      "lang": "nl",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:22:08.161Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_en.mp3": {
+      "hash": "45772f5eca6e8be6adc14807d805018b8d34ff3f",
+      "lang": "en",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:22:28.133Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_de.mp3": {
+      "hash": "d069ba0afde5207520a6a8f2b6c0441900b1e4db",
+      "lang": "de",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:22:53.079Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_it.mp3": {
+      "hash": "f354e6b61f2bd2d78ce62eef9352116bdbbe3ff8",
+      "lang": "it",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:23:27.488Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_es.mp3": {
+      "hash": "d31d00276e23f301f9d8938662ac7625ba9bb79a",
+      "lang": "es",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:23:49.558Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_pl.mp3": {
+      "hash": "f517ec959d5c18cf355b48175b3273a4a8be7210",
+      "lang": "pl",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:23:53.973Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_ar.mp3": {
+      "hash": "8b7cb0ef96683f08f9ab46acaf4aced648bc784c",
+      "lang": "ar",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:23:58.728Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_cn.mp3": {
+      "hash": "a9205d043889294b7625565d7e074dabdf0d6f1c",
+      "lang": "cn",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:24:02.922Z"
+    },
+    "audio/Vrijdagmarkt_et_Jacob_van_Artevelde_ja.mp3": {
+      "hash": "c132d0307750e90b105261a190bcb142e68a8b92",
+      "lang": "ja",
+      "label": "POI parcours: Vrijdagmarkt et Jacob van Artevelde",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:24:08.468Z"
+    },
+    "audio/Portus_Ganda_et_confluence_fr.mp3": {
+      "hash": "0c54551d05d00d6a671876e41b4451a84c43d304",
+      "lang": "fr",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:24:25.108Z"
+    },
+    "audio/Portus_Ganda_et_confluence_nl.mp3": {
+      "hash": "6b6351a386e48eb94074b3ef48b3d64d525826d8",
+      "lang": "nl",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:24:44.564Z"
+    },
+    "audio/Portus_Ganda_et_confluence_en.mp3": {
+      "hash": "447f758affc6bc57883b121b9b304c646ca06e58",
+      "lang": "en",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:25:01.906Z"
+    },
+    "audio/Portus_Ganda_et_confluence_de.mp3": {
+      "hash": "af7576c9f17ac53f319cf3a35358206a79065b25",
+      "lang": "de",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:25:24.472Z"
+    },
+    "audio/Portus_Ganda_et_confluence_it.mp3": {
+      "hash": "9e51f8f45b567631b00df52f5ad400abf4e23f94",
+      "lang": "it",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:25:55.088Z"
+    },
+    "audio/Portus_Ganda_et_confluence_es.mp3": {
+      "hash": "3f842b6ecd4ccd4a1fe8c201384c7b03ae2cf535",
+      "lang": "es",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:26:13.806Z"
+    },
+    "audio/Portus_Ganda_et_confluence_pl.mp3": {
+      "hash": "5559cce17904c2b892b926239e60f97271eaab55",
+      "lang": "pl",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:26:17.617Z"
+    },
+    "audio/Portus_Ganda_et_confluence_ar.mp3": {
+      "hash": "2728ceef9ef63d18ce46fd2e3f10c61a13b81a52",
+      "lang": "ar",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:26:21.837Z"
+    },
+    "audio/Portus_Ganda_et_confluence_cn.mp3": {
+      "hash": "91a206d915a470f40b8f312f1a4586dc9b219238",
+      "lang": "cn",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:26:25.822Z"
+    },
+    "audio/Portus_Ganda_et_confluence_ja.mp3": {
+      "hash": "1e9068810345fa57996d18ffe92beb4676bc5ae6",
+      "lang": "ja",
+      "label": "POI parcours: Portus Ganda et confluence",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:26:30.745Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_fr.mp3": {
+      "hash": "1900b9d37b692902eaa950a07d0835ffe0b6c339",
+      "lang": "fr",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:26:47.861Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_nl.mp3": {
+      "hash": "3751990b5dc0a41bbf77dbc92056a99bced7477f",
+      "lang": "nl",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:27:08.014Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_en.mp3": {
+      "hash": "14dc664177b7b7aeb3514df6c79736dc55b633c0",
+      "lang": "en",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:27:25.270Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_de.mp3": {
+      "hash": "e6bb403adfd9e77774ddea62b59e2c612a96643e",
+      "lang": "de",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:27:47.552Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_it.mp3": {
+      "hash": "4f04fa93de0841e96efc39ff8d75a53416bedadf",
+      "lang": "it",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:28:18.238Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_es.mp3": {
+      "hash": "41dbf8358b467dbbb7ee46789a150736100ab32c",
+      "lang": "es",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:28:36.913Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_pl.mp3": {
+      "hash": "aa1d8614ececf7daa3153cdd12ce97b255d12597",
+      "lang": "pl",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:28:41.012Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_ar.mp3": {
+      "hash": "2f21261bc5132505ccfe2b8e04352ccefe9d49ca",
+      "lang": "ar",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:28:45.338Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_cn.mp3": {
+      "hash": "9a0a22161a10d979b01460f770b36d2e39d5997c",
+      "lang": "cn",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:28:49.331Z"
+    },
+    "audio/Chateau_de_Gerard_le_Diable_ja.mp3": {
+      "hash": "0265369d4e4a2148f0c46fec9d78baf27e6eeb99",
+      "lang": "ja",
+      "label": "POI parcours: Château de Gérard le Diable",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:28:54.212Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_fr.mp3": {
+      "hash": "9490f6b0ce83cf2b8858187951236929bcc1458d",
+      "lang": "fr",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:29:12.413Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_nl.mp3": {
+      "hash": "8f41dbdace6b115c5a6ba23852be852300171aeb",
+      "lang": "nl",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:29:34.070Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_en.mp3": {
+      "hash": "a1be456ab917acee55524ad431fa0559b94691fa",
+      "lang": "en",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:29:53.184Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_de.mp3": {
+      "hash": "3b548619a5d95c594cc2fd917c252d2f13f7474b",
+      "lang": "de",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:30:16.954Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_it.mp3": {
+      "hash": "50a33652e918de60c61a4b6f767d5a697e4039a5",
+      "lang": "it",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:30:49.329Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_es.mp3": {
+      "hash": "56d3760b96c36dda022cf02ea3764f6b365cea27",
+      "lang": "es",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:31:09.236Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_pl.mp3": {
+      "hash": "b2f8ef1d9253bb5bf82d74b611764b6578264d56",
+      "lang": "pl",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:31:13.512Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_ar.mp3": {
+      "hash": "80038c515c3c2d025eb29e51c0f2c5ac64210c9c",
+      "lang": "ar",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:31:17.904Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_cn.mp3": {
+      "hash": "1aa90c675067c26a95fbdd15a2df77cfdc82179d",
+      "lang": "cn",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:31:22.267Z"
+    },
+    "audio/Ruelle_aux_graffitis_Werregarenstraat_ja.mp3": {
+      "hash": "91a476cb7c57462ac67190ef8a1c477c2dbbb1c6",
+      "lang": "ja",
+      "label": "POI parcours: Ruelle aux graffitis — Werregarenstraat",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:31:27.462Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_fr.mp3": {
+      "hash": "019f66c49dcf1670663bc72ee6b5416a5c9efccb",
+      "lang": "fr",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:31:47.368Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_nl.mp3": {
+      "hash": "89534fc35fca140e0f7dda9e76f0ef688b62ab83",
+      "lang": "nl",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:32:10.623Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_en.mp3": {
+      "hash": "e8fd0ab2327b322aa4de2b29eae6f303d9935633",
+      "lang": "en",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:32:32.081Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_de.mp3": {
+      "hash": "81fe1a3210df42904717a9882070e6f0cc5e5517",
+      "lang": "de",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:32:58.253Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_it.mp3": {
+      "hash": "6c37e5a4cbc29cbee854550d319e8de0c3d4c587",
+      "lang": "it",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:33:33.396Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_es.mp3": {
+      "hash": "8e3f46da4a74f8aea1dc3d9e54d0dfded494c465",
+      "lang": "es",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:33:55.515Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_pl.mp3": {
+      "hash": "6f13777b5b9211bd9a4da5875d71aa4b0c097ea3",
+      "lang": "pl",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:34:00.078Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_ar.mp3": {
+      "hash": "5b26f9a016ec924015a1c3c648618bb3b53f64d5",
+      "lang": "ar",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:34:04.776Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_cn.mp3": {
+      "hash": "cd3e62c9c54631a6b6f7e803b30a80733344e385",
+      "lang": "cn",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:34:09.463Z"
+    },
+    "audio/Prinsenhof_et_memoire_de_Charles_Quint_ja.mp3": {
+      "hash": "5c34f64fe69598f28b6b01adbe37b7e75f06313c",
+      "lang": "ja",
+      "label": "POI parcours: Prinsenhof et mémoire de Charles Quint",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:34:14.974Z"
+    },
+    "audio/Patershol_fr.mp3": {
+      "hash": "47fe7020038cd39578e81586a0d9ce0646c706dd",
+      "lang": "fr",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:34:33.597Z"
+    },
+    "audio/Patershol_nl.mp3": {
+      "hash": "740fca755c1bc63ac7b6d343263e0ef2b0cf2013",
+      "lang": "nl",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:34:54.442Z"
+    },
+    "audio/Patershol_en.mp3": {
+      "hash": "c54ff94772cb89f56708edeb36467ecd1d087101",
+      "lang": "en",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:35:14.961Z"
+    },
+    "audio/Patershol_de.mp3": {
+      "hash": "b384735bfb90dfee29b84afd0b95d7798c582a3e",
+      "lang": "de",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:35:39.184Z"
+    },
+    "audio/Patershol_it.mp3": {
+      "hash": "d274cbc5aed98079d1128957840255f7a27212bb",
+      "lang": "it",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:36:13.114Z"
+    },
+    "audio/Patershol_es.mp3": {
+      "hash": "0b93b7940b02b2c3e6a30af95dd5ac9223e585ac",
+      "lang": "es",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:36:34.067Z"
+    },
+    "audio/Patershol_pl.mp3": {
+      "hash": "562ec8e8e3dd31a4b00155a8687438027481483d",
+      "lang": "pl",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:36:38.322Z"
+    },
+    "audio/Patershol_ar.mp3": {
+      "hash": "f4b9fd4b78765643624b5089260cfe5bf8fe0f66",
+      "lang": "ar",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:36:42.636Z"
+    },
+    "audio/Patershol_cn.mp3": {
+      "hash": "0552c963f8086e1ae3d72883a77a7e35e6adf9d3",
+      "lang": "cn",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:36:47.125Z"
+    },
+    "audio/Patershol_ja.mp3": {
+      "hash": "48c09604bb6f6eaaec4d0a8f0d6807484a2491b1",
+      "lang": "ja",
+      "label": "POI parcours: Patershol",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:36:52.425Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_fr.mp3": {
+      "hash": "12094ef3f7a5ec1fedf878d1fa651477b1984580",
+      "lang": "fr",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:37:10.986Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_nl.mp3": {
+      "hash": "2b14b0388aba1ebc76605a034c21f74fba1c6b43",
+      "lang": "nl",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:37:32.583Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_en.mp3": {
+      "hash": "7e48d6c3c94af19a04a98d41827fd56393a993e5",
+      "lang": "en",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:37:52.234Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_de.mp3": {
+      "hash": "859cc99fccf491ba4aca17cf741a49e942ed2071",
+      "lang": "de",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:38:16.539Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_it.mp3": {
+      "hash": "2c7a40fa58f6fd4de090171ea87862a30e6e719c",
+      "lang": "it",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:38:50.217Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_es.mp3": {
+      "hash": "10d335697dd1d3d971ae5ad64f1eccbcf923084a",
+      "lang": "es",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:39:10.741Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_pl.mp3": {
+      "hash": "d83887c6972d3815e0409d97fb41916823cd262e",
+      "lang": "pl",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:39:15.069Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_ar.mp3": {
+      "hash": "64f7ab5a83f4438c274255da18c0d5a6ad07b540",
+      "lang": "ar",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:39:19.599Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_cn.mp3": {
+      "hash": "7f7a49dcc3de792c074b7403fdd446064a4c3742",
+      "lang": "cn",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:39:22.794Z"
+    },
+    "audio/Eglise_Saint_Jacques_et_Bij_Sint_Jacobs_ja.mp3": {
+      "hash": "7aec994820d40466e821bd5b0ef72acafe12bcd4",
+      "lang": "ja",
+      "label": "POI parcours: Église Saint-Jacques et Bij Sint-Jacobs",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:39:28.084Z"
+    },
+    "audio/Citadelpark_fr.mp3": {
+      "hash": "a6b677336ec88d8132a0f254b94249da0cb27925",
+      "lang": "fr",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:39:46.608Z"
+    },
+    "audio/Citadelpark_nl.mp3": {
+      "hash": "708cc6954e15c7a90366a7ddf432513be00e8703",
+      "lang": "nl",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:40:06.747Z"
+    },
+    "audio/Citadelpark_en.mp3": {
+      "hash": "46d75548109c4e3122ef28029cb63ea0439fc657",
+      "lang": "en",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:40:25.583Z"
+    },
+    "audio/Citadelpark_de.mp3": {
+      "hash": "300897ce490967400fa39cfca09ca5a221cb0344",
+      "lang": "de",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:40:48.942Z"
+    },
+    "audio/Citadelpark_it.mp3": {
+      "hash": "8279b5cf2d5ec0e4812aa86dbe4d87368a66e352",
+      "lang": "it",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:41:22.528Z"
+    },
+    "audio/Citadelpark_es.mp3": {
+      "hash": "aa165944d64a47cdf5ec13dd48d3b802c1756151",
+      "lang": "es",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:41:42.575Z"
+    },
+    "audio/Citadelpark_pl.mp3": {
+      "hash": "bd80af6d1fee4853eb75533be689fda80a863453",
+      "lang": "pl",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:41:46.814Z"
+    },
+    "audio/Citadelpark_ar.mp3": {
+      "hash": "0529da279d8eb83e251eb38dc5b3038284fde7f7",
+      "lang": "ar",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:41:51.371Z"
+    },
+    "audio/Citadelpark_cn.mp3": {
+      "hash": "3fab6a57a0507f49f42372ef03de8caf1352508b",
+      "lang": "cn",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:41:55.524Z"
+    },
+    "audio/Citadelpark_ja.mp3": {
+      "hash": "c88794c4e5e6abd6a84e43c61933943ca3e839fe",
+      "lang": "ja",
+      "label": "POI parcours: Citadelpark",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:42:00.439Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_fr.mp3": {
+      "hash": "262d430fac0384bc3f686d20c252459554c3d1b4",
+      "lang": "fr",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:42:18.479Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_nl.mp3": {
+      "hash": "27a8cf19f74eb2d4b12c0f63944d369f54720b2b",
+      "lang": "nl",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:42:39.718Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_en.mp3": {
+      "hash": "0718e379ed61672e7e57a4d305e32b395bab4784",
+      "lang": "en",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:42:59.031Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_de.mp3": {
+      "hash": "79ed0b1f7878b55615a865b9abaad0bb6cebb0b2",
+      "lang": "de",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:43:23.888Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_it.mp3": {
+      "hash": "82509c717a47213ea79d96c648567709aa2a51ae",
+      "lang": "it",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:43:57.134Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_es.mp3": {
+      "hash": "eaa5efb81070517cf120b709d7c33d00d24e1825",
+      "lang": "es",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:44:17.247Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_pl.mp3": {
+      "hash": "41306a3f4d028c3d2f4c670131b9be13ea226165",
+      "lang": "pl",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:44:21.491Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_ar.mp3": {
+      "hash": "0d05d4dc14a77c31bd455f89fa351b352e782ddc",
+      "lang": "ar",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:44:25.761Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_cn.mp3": {
+      "hash": "1245bd64905ff796c7f0e8265553d5aa1903da35",
+      "lang": "cn",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:44:30.002Z"
+    },
+    "audio/STAM_et_site_de_la_Bijloke_ja.mp3": {
+      "hash": "9d07d0f9c5c852b0110d784f73a0212d24819ec8",
+      "lang": "ja",
+      "label": "POI parcours: STAM et site de la Bijloke",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:44:35.180Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_fr.mp3": {
+      "hash": "0523d5005c34f96523f579c83518c4744fa0de48",
+      "lang": "fr",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:44:53.093Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_nl.mp3": {
+      "hash": "5bf9f60516f77bed31963843f29808a1e3a0b1cc",
+      "lang": "nl",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:45:13.374Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_en.mp3": {
+      "hash": "06170f0fa62acec878b72a00cc5959b19aaeba57",
+      "lang": "en",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:45:32.861Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_de.mp3": {
+      "hash": "3bd3e5c83ad8daf9a9ea2578c87eb752c8647032",
+      "lang": "de",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:45:57.071Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_it.mp3": {
+      "hash": "bf60fb5eb3f2a03237d088b896700f5fbe822d8e",
+      "lang": "it",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:46:28.860Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_es.mp3": {
+      "hash": "c52c043ca476d2fe78fb89ae17cadc13e7fd1278",
+      "lang": "es",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:46:48.271Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_pl.mp3": {
+      "hash": "0f9a145d0466765c2d6bbd6389ab9e516df6b9d3",
+      "lang": "pl",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:46:52.436Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_ar.mp3": {
+      "hash": "517dac5311383697a5383e2621496f0b836aac2f",
+      "lang": "ar",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:46:56.456Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_cn.mp3": {
+      "hash": "0aaa1c2e3f6766927093df59e56f1a00e7ab2ecd",
+      "lang": "cn",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:47:00.784Z"
+    },
+    "audio/Abbaye_Saint_Pierre_et_Mont_Blandin_ja.mp3": {
+      "hash": "61f7246419562bb96425fb954307c94f1d2eaf7f",
+      "lang": "ja",
+      "label": "POI parcours: Abbaye Saint-Pierre et Mont Blandin",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:47:05.936Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_fr.mp3": {
+      "hash": "116e98ba0bcd3d8c4667d00b8ec9cd1a3ef78235",
+      "lang": "fr",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:47:23.445Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_nl.mp3": {
+      "hash": "0964e461265aae9b5e6391d29fc363d885d6d124",
+      "lang": "nl",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:47:43.753Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_en.mp3": {
+      "hash": "ee2ea4291c5046d1fbec905c8819ffa04f011aed",
+      "lang": "en",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:48:02.383Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_de.mp3": {
+      "hash": "4af953c3a73382a108cfa96c4217345f354e2dd8",
+      "lang": "de",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:48:26.895Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_it.mp3": {
+      "hash": "cd17a54d686163a54287f379e46c9ff73d014be6",
+      "lang": "it",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:48:58.548Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_es.mp3": {
+      "hash": "e3226c0b81d261ba03fdbd2ab5f1b4211963feaa",
+      "lang": "es",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:49:17.713Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_pl.mp3": {
+      "hash": "e65ea9cd082c0434a196c16e4ca20a2c0bc9a4b9",
+      "lang": "pl",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:49:21.867Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_ar.mp3": {
+      "hash": "2167e511ea350521633757040e15c81225ff10f2",
+      "lang": "ar",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:49:26.209Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_cn.mp3": {
+      "hash": "676c588591608c2d47b7a87528970e50cb2e54e3",
+      "lang": "cn",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:49:30.484Z"
+    },
+    "audio/Ancien_beguinage_Sainte_Elisabeth_ja.mp3": {
+      "hash": "8aa52c12fef38f94865d38794f1332f5266763f4",
+      "lang": "ja",
+      "label": "POI parcours: Ancien béguinage Sainte-Élisabeth",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:49:35.739Z"
+    },
+    "audio/Rabot_fr.mp3": {
+      "hash": "29685b117529e7a185290e3f20feefd75201599b",
+      "lang": "fr",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:49:52.844Z"
+    },
+    "audio/Rabot_nl.mp3": {
+      "hash": "d9f75218730b678b4424164ed332b945a5d1efd1",
+      "lang": "nl",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:50:13.112Z"
+    },
+    "audio/Rabot_en.mp3": {
+      "hash": "146f9bfaa6981361a687d53dd1c289cabbeb95d2",
+      "lang": "en",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:50:30.589Z"
+    },
+    "audio/Rabot_de.mp3": {
+      "hash": "3be8f0cfed30a6b89f7c30c95cce41bbc6dc4980",
+      "lang": "de",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:50:54.176Z"
+    },
+    "audio/Rabot_it.mp3": {
+      "hash": "b07bccacf68bbc5883b63b5dbfd26251e979b15f",
+      "lang": "it",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:51:25.671Z"
+    },
+    "audio/Rabot_es.mp3": {
+      "hash": "f13b29ce842b7d2c8f40052ee1d7082ed78f6bf1",
+      "lang": "es",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:51:44.219Z"
+    },
+    "audio/Rabot_pl.mp3": {
+      "hash": "19089e9703600f61fa747fc066e6d4d4ec9ac448",
+      "lang": "pl",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:51:48.212Z"
+    },
+    "audio/Rabot_ar.mp3": {
+      "hash": "c946dbc8b902e1a089b73d2422cc938e8827f529",
+      "lang": "ar",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:51:52.467Z"
+    },
+    "audio/Rabot_cn.mp3": {
+      "hash": "69c28a24826deacb2d970ae45da2039e3c0d9309",
+      "lang": "cn",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:51:56.510Z"
+    },
+    "audio/Rabot_ja.mp3": {
+      "hash": "104d13d28128c384f458c82569f0eeee3d27c577",
+      "lang": "ja",
+      "label": "POI parcours: Rabot",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:52:01.299Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_fr.mp3": {
+      "hash": "ff9b7daffb6b93f178cfe8a376ea29e96a2b6b32",
+      "lang": "fr",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-31T21:52:18.089Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_nl.mp3": {
+      "hash": "f8178091a2801f0479ed578724ae58f1c5e55c92",
+      "lang": "nl",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-31T21:52:38.279Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_en.mp3": {
+      "hash": "3884f7d69543dd28e24754e12be5ea89e729b5bb",
+      "lang": "en",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-31T21:52:56.166Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_de.mp3": {
+      "hash": "3f30e1903e81ba15a0ff942384e695652251fcff",
+      "lang": "de",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-31T21:53:18.652Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_it.mp3": {
+      "hash": "515e8ed0cb536f7c6dd4a2a759d86cc61b8a3cab",
+      "lang": "it",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-31T21:53:48.460Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_es.mp3": {
+      "hash": "6adc88194d0cf917342d4b96dd19967e8d23a124",
+      "lang": "es",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-31T21:54:07.328Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_pl.mp3": {
+      "hash": "3c570eb4581caf27f1ca5604ae4eed7d23d7e7d9",
+      "lang": "pl",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-31T21:54:11.375Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_ar.mp3": {
+      "hash": "8fe595399eed12dc96dff10d3f6c12c380348deb",
+      "lang": "ar",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-31T21:54:15.358Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_cn.mp3": {
+      "hash": "8efe233ee6c8d9f04877b371a52ee2a03c14d160",
+      "lang": "cn",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-31T21:54:19.498Z"
+    },
+    "audio/Ruines_de_l_abbaye_Saint_Bavon_ja.mp3": {
+      "hash": "40483b0117965bc9ec5ed8b3544248bb892805a1",
+      "lang": "ja",
+      "label": "POI parcours: Ruines de l’abbaye Saint-Bavon",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-31T21:54:24.250Z"
+    }
+  },
+  "langRegenRequired": {},
+  "langAudioSyncedAt": {
+    "fr": "2026-07-31T21:54:24.266Z",
+    "nl": "2026-07-31T21:54:24.266Z",
+    "en": "2026-07-31T21:54:24.266Z",
+    "de": "2026-07-31T21:54:24.266Z",
+    "it": "2026-07-31T21:54:24.266Z",
+    "es": "2026-07-31T21:54:24.266Z",
+    "pl": "2026-07-31T21:54:24.266Z",
+    "ar": "2026-07-31T21:54:24.266Z",
+    "cn": "2026-07-31T21:54:24.266Z",
+    "ja": "2026-07-31T21:54:24.266Z"
+  }
+}
