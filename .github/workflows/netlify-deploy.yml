@@ -30,7 +30,11 @@ jobs:
         run: npm run build
 
       - name: Deploy to Netlify
-        run: npx netlify-cli deploy --prod --dir=dist --functions=netlify/functions --message "${{ github.event.head_commit.message }}"
+        # --no-build : le build CI a déjà produit dist/ (avec api-key.js).
+        # Sans ce flag, netlify-cli relance `npm run build` SANS GOOGLE_MAPS_API_KEY
+        # et écrase api-key.js → carte "non disponible" en prod.
+        run: npx netlify-cli deploy --prod --dir=dist --functions=netlify/functions --no-build --message "${{ github.event.head_commit.message }}"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
